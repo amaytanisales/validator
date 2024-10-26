@@ -1,0 +1,11 @@
+http://45.33.51.112:3000/validator
+http://172.105.17.24:3000/validator
+http://172.233.121.195:3000/validator
+http://172.232.207.72:3000/validator
+http://172.233.38.225:3000/validator
+http://45.33.51.112:3000/validator
+http://172.105.17.24:3000/validator
+http://172.233.121.195:3000/validator
+http://172.232.207.72:3000/validator
+http://172.233.38.225:3000/validator
+http://192.46.230.161:3000/validator
